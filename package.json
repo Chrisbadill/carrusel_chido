@@ -1,0 +1,15 @@
+{
+  "name": "burbujas",
+  "version": "1.0.0",
+  "description": "intentando hacer un ejecto burbujas con html para la pagina de adela",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cbm",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}

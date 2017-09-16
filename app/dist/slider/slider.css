@@ -1,0 +1,62 @@
+
+
+.rec-rojo{
+  border-style: solid;
+  border-color: red;
+  background-color: rgb(240, 127, 158);
+}
+
+.rec-verde{
+  border-style: solid;
+  border-color: rgb(2, 156, 40);
+  background-color: rgb(100, 221, 123);
+}
+
+.rec-azul{
+  border-style: solid;
+  border-color: rgb(10, 92, 167);
+  background-color: rgb(14, 207, 226);
+}
+.contenedor{
+  max-width: 1000px;
+  margin: auto;
+  position: relative;
+  height: 250px;
+
+}
+.diapositiva{
+  height: 100%;
+  display: none;
+}
+
+.control {
+
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+
+}
+
+
+.siguiente {
+  right: 0;
+
+}
+.puntos{
+  position: absolute;
+  bottom: 0px;
+
+}
+
+.punto{
+
+  height: 20px;
+  width: 20px;
+  margin: 0 2px;
+  background-color: #3bff00;
+  border-radius: 50%;
+  display: inline-block;
+
+}

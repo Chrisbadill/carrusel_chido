@@ -1,0 +1,54 @@
+.contenedor{
+  width: 500px;
+  height: 500px;
+
+
+}
+
+.burbuja{
+  width: 50px;
+  height: 50px;
+  top: 150px;
+  left: 150px;
+}
+.redondo{
+  border-radius: 50%;
+}
+
+.borde-solido{
+  border-style:solid;
+
+}
+
+.color-azul{
+  background-color: #00BFAF;
+}
+.color-lima{
+  background-color: #6FF29D;
+}
+.color-gris{
+  background-color: #6C8C89;
+}
+.color-rosa{
+  background-color: #F4005E;
+}
+
+.color-magenta{
+  background-color: #BF00A9;
+}
+
+.p-relative{
+  position: relative;
+}
+
+.p-absolut{
+  position: absolute;
+}
+
+.p-fixed{
+  position: fixed;
+}
+
+.margen{
+  margin: 200px;
+}
