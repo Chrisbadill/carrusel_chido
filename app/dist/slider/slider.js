@@ -69,3 +69,6 @@ function slider(nombre,velocidad) {
     }
 
 }
+
+var uno = new slider("slider1")
+uno.reproducirDos()

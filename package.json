@@ -11,5 +11,14 @@
   "devDependencies": {
     "browser-sync": "^2.18.12",
     "gulp": "^3.9.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisbadill/carrusel_chido.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chrisbadill/carrusel_chido/issues"
+  },
+  "homepage": "https://github.com/Chrisbadill/carrusel_chido#readme"
 }
